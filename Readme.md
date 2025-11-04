@@ -10,7 +10,7 @@
 
 ## Sobre o que é o conteúdo? 
 
-- Eu compilei de forma bem mastigadinha, tudo que você eventualmente se interessaria, logo juntamos tudo em um único arquivo, para você não perder seu preciso tempo, pesquisando e anotando coisas bestas. 
+- Eu compilei de forma bem "mastigadinha" tudo que você eventualmente se interessaria e/ou pesquisaria. logo juntamos tudo em um único arquivo. 
 
 ## Você vai fazer uma conttinuação? 
 
