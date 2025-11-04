@@ -6,7 +6,7 @@
 
 ## Por que você subiu um PDF no Git? 
 
-- Isso foi um dos meus TCCs, só que acabou ficando tão bom, que eu entrego para qualquer um que se encontra perdido e não sabe por onde começar, e receber um PDF de alguém que você não conhece é um tanto quanto suspeito. 
+- Isso foi um dos meus TCCs só que acabou ficando tão bom, que eu entrego para qualquer um que se encontra perdido e precisa de uma direção, e covenhamos que receber um PDF de alguém que você não conhece é um tanto quanto suspeito. 
 
 ## Sobre o que é o conteúdo? 
 
